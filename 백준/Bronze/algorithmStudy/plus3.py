@@ -21,5 +21,4 @@ def main():
     print('\n'.join(results))
 
 if __name__ == "__main__":
-    main() 
-    
+    main()
